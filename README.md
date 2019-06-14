@@ -1,0 +1,1 @@
+A sample Bucket List API, using DRF
